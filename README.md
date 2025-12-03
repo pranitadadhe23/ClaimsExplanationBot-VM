@@ -54,5 +54,6 @@ claim-explainer-chatbot/
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/claim-explainer-chatbot.git
+git clone https://github.com/pranitadadhe23/ClaimsExplanationBot-VM
 cd claim-explainer-chatbot
+
