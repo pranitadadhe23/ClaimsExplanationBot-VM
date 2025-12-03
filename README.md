@@ -126,19 +126,20 @@ No user data retention
 Safe for demo and educational use
 
 ### 👩‍💻Developer
-Pranita Dadhe & Sakshi Parate
-Final Year Engineering Student
+Pranita Dadhe & Sakshi Parate  
+Final Year Engineering Student  
 Project: Claims Explanation Bot  
 ---
 
 ### GitHub Profile: 
-https://github.com/pranitadadhe23 ,
-https://github.com/SakshiParate27
+https://github.com/pranitadadhe23 ,  
+https://github.com/SakshiParate27  
 ---
 
 ### 📜 License
 This project is developed for educational and demonstration purposes.
 Feel free to use, modify, and share with proper credit.
+
 
 
 
