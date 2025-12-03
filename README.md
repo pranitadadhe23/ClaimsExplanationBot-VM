@@ -59,19 +59,29 @@ cd claim-explainer-chatbot
 ``` 
 
 ### Step 2: Create Virtual Environment (Recommended)
-``` python -m venv venv ``` 
+```bash
+python -m venv venv
+``` 
 
 # Windows
-```bash venv\Scripts\activate``` 
+```bash
+venv\Scripts\activate
+``` 
 
 # macOS/Linux
-```bash source venv/bin/activate``` 
+```bash 
+source venv/bin/activate
+``` 
 
 ### Step 3: Install All Dependencies
-```bash pip install -r requirements.txt``` 
+```bash 
+pip install -r requirements.txt
+``` 
 
 ### Step 4: Run the Application
+``` bash
 streamlit run claim_explainer_chatbot_app.py
+```
 
 ## 📄   How to Use the Application
 1. Launch the app in your browser
@@ -99,14 +109,14 @@ Steps:
 Click Deploy ✅
 ---
 
-### 🎯 Use Cases
-🏥 Hospitals & Billing Departments
-🧾 Insurance Companies
-🧑‍💼 Third Party Administrators (TPA)
-📞 Customer Support Automation
-🎓 Academic & Demonstration Projects
+###🎯 Use Cases
+🏥 Hospitals & Billing Departments  
+🧾 Insurance Companies  
+🧑‍💼 Third Party Administrators (TPA)  
+📞 Customer Support Automation  
+🎓 Academic & Demonstration Projects  
 ---
-### 🔐 Data Privacy & Security
+### 🔐 Data Privacy & Security  
 Uploaded documents are processed in runtime memory only
 No permanent file storage
 No user data retention
@@ -124,5 +134,6 @@ https://github.com/pranitadadhe23 , https://github.com/SakshiParate27
 ### 📜 License
 This project is developed for educational and demonstration purposes.
 Feel free to use, modify, and share with proper credit.
+
 
 
