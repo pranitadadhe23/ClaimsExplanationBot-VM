@@ -2,12 +2,12 @@
 
 ## An AI-powered Insurance Claim Explanation Chatbot built using Streamlit, OCR, and Natural Language Processing (NLP). 
 This application allows users to upload insurance claim documents (PDF, Image, or Text) and ask questions in natural language about: 
-Claim approval or rejection 
-Approved amount 
-Reasons for rejection 
-Patient and hospital details 
-Simple claim summary 
-Downloadable claim summary report 
+Claim approval or rejection  
+Approved amount  
+Reasons for rejection  
+Patient and hospital details  
+Simple claim summary  
+Downloadable claim summary report  
 
 🚀 Features 
 ✅ Upload claim reports in PDF, JPG, PNG, or TXT 
@@ -141,4 +141,5 @@ Project: AI-Based Insurance Claim Explanation System
 
 This project is for educational and demonstration purposes only.
 You may modify and use it with proper credit.
+
 
