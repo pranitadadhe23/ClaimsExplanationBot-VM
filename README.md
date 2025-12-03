@@ -62,13 +62,13 @@ cd claim-explainer-chatbot
 ``` python -m venv venv ``` 
 
 # Windows
-``` venv\Scripts\activate``` 
+```bash venv\Scripts\activate``` 
 
 # macOS/Linux
-``` source venv/bin/activate``` 
+```bash source venv/bin/activate``` 
 
 ### Step 3: Install All Dependencies
-``` pip install -r requirements.txt``` 
+```bash pip install -r requirements.txt``` 
 
 ### Step 4: Run the Application
 streamlit run claim_explainer_chatbot_app.py
@@ -124,4 +124,5 @@ https://github.com/pranitadadhe23 , https://github.com/SakshiParate27
 ### 📜 License
 This project is developed for educational and demonstration purposes.
 Feel free to use, modify, and share with proper credit.
+
 
