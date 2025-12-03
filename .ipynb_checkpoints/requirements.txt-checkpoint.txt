@@ -1,0 +1,13 @@
+streamlit==1.40.1
+pdfplumber==0.11.0
+pillow
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+langdetect
+python-doctr[torch]
+opencv-python-headless<5
+pdf2image
+pypdfium2

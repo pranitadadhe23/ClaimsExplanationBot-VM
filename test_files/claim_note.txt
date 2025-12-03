@@ -1,0 +1,124 @@
+INSURANCE COMPANY: SecureLife Health Insurance Pvt. Ltd.
+PRODUCT: SecureLife Gold – Family Floater
+Policy Number: SLH/FG/2023/0192837
+Claim ID: CLM/2024/000784
+UHID: UHID-99821
+
+Patient Name: Mr. Rohan Sharma
+Age/Gender: 42 / Male
+Relationship to Proposer: Self
+
+Hospital Name: CityCare Multispeciality Hospital
+Hospital City: Pune, Maharashtra
+Hospital Type: Network Hospital
+
+Admission Date: 15-02-2024
+Discharge Date: 22-02-2024
+
+Diagnosis:
+The patient was admitted with complaints of severe abdominal pain, vomiting, and fever.
+After clinical examination and investigations, the final diagnosis was:
+• Acute Calculous Cholecystitis with Cholelithiasis
+• Associated Fatty Liver (Grade I)
+Relevant ICD Codes: K80.00, K81.0
+
+Treatment Details:
+The patient underwent the following treatment:
+• Initial stabilization in emergency department
+• Laboratory investigations – CBC, LFT, KFT, Coagulation profile, Lipid profile
+• Radiological investigations – Ultrasound abdomen, CT scan abdomen
+• Conservative management with IV fluids, antibiotics, analgesics, and antispasmodics
+• Laparoscopic Cholecystectomy performed on 17-02-2024 under general anesthesia
+• Post-operative monitoring in post-op ward and subsequent shift to private room
+• Discharge on 22-02-2024 with advice for oral medication, follow-up visit, and lifestyle modification
+
+Hospital Bill Summary:
+Room Rent and Nursing Charges (7 days) ...................................... ₹ 56,000
+ICU/High Dependency Unit Charges ............................................... ₹ 0
+Operation Theatre and Anesthesia Charges ..................................... ₹ 48,500
+Surgeon and Assistant Surgeon Fees ............................................ ₹ 60,000
+Physician/Consultation Charges ................................................... ₹ 9,200
+Nursing and Service Charges ....................................................... ₹ 7,500
+Laboratory Investigations ............................................................. ₹ 14,300
+Radiology (Ultrasound, CT scan) ................................................. ₹ 18,700
+Medicines and Consumables ....................................................... ₹ 32,950
+Other Hospital Service Charges ................................................... ₹ 6,250
+
+Total Hospitalization Expenses (Gross): .................................... ₹ 253,400
+Less: Discount provided by hospital ........................................... ₹ 3,400
+Total Payable by Patient (Final Bill Amount): .............................. ₹ 250,000
+
+Claim Details Submitted:
+Claim Type: Reimbursement
+Claim Amount Submitted: ₹ 250,000
+Claim Documents Received:
+• Claim form duly filled and signed
+• Discharge summary
+• Admission note and case papers
+• Final hospital bill and payment receipts
+• Break-up of room rent and professional fees
+• Investigation and pharmacy bills
+• KYC documents of proposer
+• Bank details and cancelled cheque
+
+Policy Coverage Summary:
+Sum Insured under SecureLife Gold – Family Floater: ₹ 300,000
+Policy Period: 01-04-2023 to 31-03-2024
+Cumulative Bonus: ₹ 60,000
+Total Available Coverage: ₹ 360,000
+
+Important Policy Conditions:
+• Waiting period of 24 months for specified procedures such as gallbladder removal, hernia surgeries, and joint replacements.
+• Pre-existing diseases covered after 36 months of continuous coverage.
+• Standard exclusions: self-inflicted injuries, cosmetic procedures, non-medical expenses, etc.
+• 30 days initial waiting period for all illnesses except accidents.
+
+Claim Status: REJECTED
+
+REASON FOR REJECTION
+On careful examination of the claim documents, medical records, and policy schedule, the following observations and deductions have been made by the claim adjudication team:
+
+1. Waiting Period Clause:
+As per the SecureLife Gold policy terms and conditions, gallbladder-related surgeries such as laparoscopic cholecystectomy fall under the “specified procedures” category. These procedures are subject to a waiting period of 24 months from the first policy inception date.
+
+The current policy for the insured, Mr. Rohan Sharma, commenced on 01-04-2023. The hospitalization and surgery occurred on 15-02-2024, which is within the first year of the policy. As such, the mandatory 24-month waiting period for this specified procedure is not satisfied.
+
+2. No Continuity of Coverage:
+It is also noted that although the insured held a previous policy with a different insurer, there is a break in insurance coverage of 65 days between the old policy expiry date and the SecureLife Gold policy inception date.
+
+Due to this break in coverage, portability benefits and continuity of waiting periods are not applicable as per IRDAI guidelines and SecureLife underwriting rules. Therefore, the full waiting period under the new policy is applicable for specified procedures.
+
+3. Non-admissibility as per Clause 4.3:
+Clause 4.3 of the policy wording clearly states:
+“Expenses related to treatment of gall bladder stones, hernia, and other specified procedures shall be excluded until the insured has been continuously covered under the policy for a period of 24 months.”
+
+Since the insured does not meet the required continuous coverage duration of 24 months, the present claim falls under a specific exclusion.
+
+4. No Emergency Accident Justification:
+The claim has been submitted as an illness-based hospitalization and not as an accident or trauma. Hence, the standard waiting period exclusions are to be applied. There is no documentation suggesting life-threatening emergency that would override the waiting period clause.
+
+5. Prior Intimation:
+Although prior intimation was received for planned hospitalization, pre-authorization was not approved due to the same waiting period clause. The reimbursement claim has been assessed on identical grounds and is therefore not admissible.
+
+Based on the above points, the claim is not payable under the current policy terms and conditions.
+
+Final Decision:
+Claim Amount Submitted: ₹ 250,000
+Approved Amount: ₹ 0
+Claim Status: REJECTED
+
+Outcome to Policyholder:
+Your claim has been declined because the treatment falls under the list of specified procedures with a 24-month waiting period, and there is a break in continuity between your previous insurer and the current policy. Consequently, the claim is not admissible as per Clause 4.3 of the policy.
+
+You may:
+• Review your policy wordings, especially the waiting period for specified procedures.
+• Contact our customer support team for any clarification on the decision.
+• If you believe there has been an error in assessment, you may file a written representation or grievance with supporting documents within 30 days of this communication.
+
+FINAL REMARKS
+This is a system-generated document and does not require a physical signature.
+If you have any questions, please reach out to:
+Claims Helpdesk – SecureLife Health Insurance Pvt. Ltd.
+Toll-free: 1800-123-4567
+Email: claims@securelifehealth.com
+Website: www.securelifehealth.com
