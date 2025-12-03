@@ -109,31 +109,37 @@ Steps:
 Click Deploy ✅
 ---
 
-###🎯 Use Cases
+### 🎯Use Cases
+
 🏥 Hospitals & Billing Departments  
 🧾 Insurance Companies  
 🧑‍💼 Third Party Administrators (TPA)  
 📞 Customer Support Automation  
 🎓 Academic & Demonstration Projects  
+
 ---
-### 🔐 Data Privacy & Security  
+
+### 🔐Data Privacy & Security  
 Uploaded documents are processed in runtime memory only
 No permanent file storage
 No user data retention
 Safe for demo and educational use
-### 👩‍💻 Developer
+
+### 👩‍💻Developer
 Pranita Dadhe & Sakshi Parate
 Final Year Engineering Student
 Project: Claims Explanation Bot  
 ---
 
-### GitHub Profile:
-https://github.com/pranitadadhe23 , https://github.com/SakshiParate27
+### GitHub Profile: 
+https://github.com/pranitadadhe23 ,
+https://github.com/SakshiParate27
 ---
 
 ### 📜 License
 This project is developed for educational and demonstration purposes.
 Feel free to use, modify, and share with proper credit.
+
 
 
 
